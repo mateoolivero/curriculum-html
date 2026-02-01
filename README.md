@@ -52,3 +52,5 @@ single-page-cv/
 ├── index.html
 └── README.md
 └──style.css
+
+The proyect url https://github.com/mateoolivero/curriculum-html
